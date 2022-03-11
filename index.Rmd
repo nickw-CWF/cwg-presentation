@@ -103,9 +103,9 @@ Increased freshwater focus on connectivity and fish passage:
 
 What we know:
 
-- Structures like dams, culverts, and dykes block the movement of fish and other species
-- Barriers to fish passage are extensive across Canada
-- Barriers removal needed to restore access to important habitat
+- Structures like dams, culverts, and dykes block the movement of fish (and other species) and energy/matter
+- Barriers to connectivity are extensive across Canada
+- Barriers removal needed to restore access to important habitat and ecosystem functions
 - Restoration projects are expensive
 
 <center>
@@ -166,7 +166,7 @@ All Canada's barrier and connectivity information in one place -- easily and ope
   + Hydrological modelling
   + Infrastructure inventories
 - CABD can improve collaboration and partnership
-- Launched external engagement to get input on design
+- Launched external engagement to get input on development
 
 <center>
 ![not-alone](./img/not-alone.png){height=250px}
@@ -276,7 +276,7 @@ All Canada's barrier and connectivity information in one place -- easily and ope
 
 </div>
 
-## Common Hydrology Features v2
+## CHyF v2
 
 - **<span style="color: #de3c26;">Open-source tools</span>**
 - Leverages graph theory and web services for improved analytical performance (upstream and downstream traces)
