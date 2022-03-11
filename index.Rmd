@@ -374,7 +374,7 @@ Five main steps:
 ## Demo!
 
 <center>
-<a href="https://cabd-k37sjncl0-foundryspatial.vercel.app/" data-preview-link>aquaticbarriers.ca</a>
+<a href="https://aquaticbarriers.ca/" data-preview-link>aquaticbarriers.ca</a>
 </center>
 
 ## Next Steps
